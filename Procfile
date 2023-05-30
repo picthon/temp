@@ -1,1 +1,1 @@
-worker: bash moh
+worker: bash pic
