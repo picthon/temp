@@ -63,7 +63,7 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/picthon/heroku-buildpack-fmpeg-latest/tree/main"
+    "url": "https://github.com/Jmthon2/heroku-buildpack-ffmpeg-latest"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
