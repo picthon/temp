@@ -1,13 +1,13 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/d90dfa4c680c0d0d2e652.jpg",
+  "name": "PICTHON",
+  "description": " Arabic picthon Powerful & Safe based on Telethon",
+  "logo": "https://telegra.ph/file/662b3feb7ce121257b265.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jmthonr/temp",
+  "repository": "https://github.com/picthon/temp",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -63,7 +63,7 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/Jmthon2/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/picthon/heroku-buildpack-fmpeg-latest/tree/main"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
