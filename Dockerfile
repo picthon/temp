@@ -1,4 +1,4 @@
-FROM picthon/picthon:slim-buster
+FROM thejmthon/jmbot:slim-buster
 
 RUN git clone https://github.com/picthon/picthon.git /root/jmub
 
